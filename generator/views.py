@@ -6,7 +6,7 @@ def home(request):
 
 
 def about(request):
-    return render(request,'generator/about.html')
+    return render(request,'generator/aboutgit push -u origin master.html')
 
 
 def password(request):
